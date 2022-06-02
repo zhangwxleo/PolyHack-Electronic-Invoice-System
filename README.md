@@ -17,7 +17,7 @@ Creater:
   
  Thank you all for contributing to the code.
   
- Special thanks to our team member, LU Zhoudao Dozer, who is responsible for the pitching presentation as well as the proposal writing.
+ Special thanks to our team member, LU Zhoudao Dozer, who is responsible for the pitching presentation as well as the proposal's writing.
   
  created on 2022/6/2
  
